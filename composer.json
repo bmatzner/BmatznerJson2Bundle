@@ -1,0 +1,24 @@
+{
+    "name":        "bmatzner/json2-bundle",
+    "type":        "symfony-bundle",
+    "description": "JSON-js Bundle for Symfony2",
+    "keywords":    ["json", "javascript", "symfony"],
+    "homepage":    "https://github.com/douglascrockford/JSON-js",
+    "license":     "Public Domain",
+    "authors":     [
+        {
+            "name":     "Bernd Matzner",
+            "email":    "bernd@matznermatzner.de",
+            "homepage": "http://berndmatzner.de"
+        }
+    ],
+    "require":     {
+        "symfony/framework-bundle": ">=2.1"
+    },
+    "autoload":    {
+        "psr-0": {
+            "Bmatzner\\Json2Bundle": ""
+        }
+    },
+    "target-dir":  "Bmatzner/Json2Bundle"
+}
