@@ -3,7 +3,7 @@ JSON-js Bundle for Symfony2
 
 ## Current Version
 
-JSON-js 2012-10-08
+JSON-js 2013-05-26
 Only the json2.js file crockford is suggesting to use is included
 
 ## Installation
